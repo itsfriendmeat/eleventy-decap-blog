@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hello World
 date: 2024-08-01
 tags:
